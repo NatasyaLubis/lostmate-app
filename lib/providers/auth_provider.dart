@@ -23,9 +23,6 @@ class AuthProvider extends ChangeNotifier {
       await SharedPrefsService.saveCurrentUser(user);
       _currentUser = user;
       notifyListeners();
-
-      // **JANGAN panggil Provider.of di sini karena tidak ada context**
-
       return true;
     }
     return false;
