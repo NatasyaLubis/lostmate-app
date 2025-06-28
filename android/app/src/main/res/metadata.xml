@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIcons</key>
+  <dict>
+    <key>CFBundlePrimaryIcon</key>
+    <dict>
+      <key>CFBundleIconFiles</key>
+      <array>
+        <string>16</string>
+        <string>20</string>
+        <string>29</string>
+        <string>32</string>
+        <string>40</string>
+        <string>57</string>
+        <string>58</string>
+        <string>60</string>
+        <string>76</string>
+        <string>80</string>
+        <string>87</string>
+        <string>114</string>
+        <string>120</string>
+        <string>128</string>
+        <string>152</string>
+        <string>167</string>
+        <string>180</string>
+        <string>256</string>
+        <string>512</string>
+        <string>1024</string>
+      </array>
+    </dict>
+  </dict>
+</dict>
+</plist>
