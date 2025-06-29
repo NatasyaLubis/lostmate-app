@@ -1,16 +1,30 @@
-# lostmate
+# Lost Mate App Mobile
 
-A new Flutter project.
+Lost Mate adalah aplikasi mobile berbasis Flutter untuk membantu pengguna melaporkan dan menemukan barang hilang dengan mudah dan cepat. Dengan tampilan antarmuka yang modern dan interaktif, Lost Mate menyediakan fitur lengkap yang memudahkan pengguna dalam melacak barang hilang secara real-time.
 
-## Getting Started
+## Fitur Utama
+**Pelaporan Barang Hilang**
 
-This project is a starting point for a Flutter application.
+Pengguna dapat membuat laporan tentang barang hilang secara lengkap dengan memasukkan nama, kategori, deskripsi, foto, lokasi di peta, dan nomor kontak pelapor.
 
-A few resources to get you started if this is your first Flutter project:
+## Link Download file APK
+https://github.com/NatasyaLubis/lostmate-app/releases/download/v1.0.0/app-release.apk
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/NatasyaLubis/lostmate-app/releases/tag/v1.0.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalasi & Penggunaan
+**Pastikan Flutter SDK sudah terinstall di komputer Anda.**
+
+1. Clone repository ini:
+**git clone https://github.com/NatasyaLubis/lostmate-app.git**
+3. Masuk ke direktori project:
+ **cd lostmate-app**
+4. Install dependencies:
+**flutter pub get**
+5. Jalankan aplikasi pada emulator atau perangkat nyata:
+**flutter run**
+
+## Build APK
+Untuk membuat file APK siap install:
+**flutter build apk --release**
+
